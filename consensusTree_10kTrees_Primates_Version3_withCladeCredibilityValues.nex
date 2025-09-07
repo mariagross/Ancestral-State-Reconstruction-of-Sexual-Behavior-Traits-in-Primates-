@@ -1,0 +1,46 @@
+#NEXUS
+[created by the 10kTree Website - http://10kTrees.fas.harvard.edu]
+BEGIN TREES;
+translate
+1 Cercopithecus_albogularis,
+2 Cercopithecus_ascanius,
+3 Cercopithecus_campbelli,
+4 Cercopithecus_diana,
+5 Cercopithecus_mitis,
+6 Cercopithecus_mona,
+7 Cercopithecus_neglectus,
+8 Cercopithecus_pogonias,
+9 Chlorocebus_pygerythrus,
+10 Chlorocebus_sabaeus,
+11 Chlorocebus_tantalus,
+12 Gorilla_beringei,
+13 Gorilla_gorilla_gorilla,
+14 Hylobates_agilis,
+15 Hylobates_klossii,
+16 Hylobates_lar,
+17 Hylobates_moloch,
+18 Hylobates_muelleri,
+19 Hylobates_pileatus,
+20 Pan_paniscus,
+21 Pan_troglodytes_troglodytes,
+22 Pongo_abelii,
+23 Pongo_pygmaeus,
+24 Symphalangus_syndactylus,
+25 Macaca_arctoides,
+26 Macaca_fascicularis,
+27 Macaca_fuscata,
+28 Macaca_maura,
+29 Macaca_mulatta,
+30 Macaca_nemestrina,
+31 Macaca_nigra,
+32 Macaca_silenus,
+33 Macaca_sinica,
+34 Macaca_sylvanus,
+35 Papio_anubis,
+36 Papio_cynocephalus,
+37 Papio_hamadryas,
+38 Papio_papio,
+39 Papio_ursinus;
+tree consensus_39species_withCladeCredValues = ((((((1:0.013860,5:0.012114)0.78:0.019876,2:0.029585)0.86:0.006369,(((3:0.007687,6:0.014817)0.97:0.004305,8:0.019801)1:0.017547,(4:0.021581,7:0.036458)0.51:0.002075)1:0.012220)0.86:0.012020,((11:0.011090,9:0.009810)1:0.010377,10:0.015210)1:0.032210)1:0.026559,(((((35:0.005398,37:0.007828)0.79:0.002231,38:0.012680)0.95:0.002545,36:0.010235)0.99:0.004391,39:0.011973)1:0.057089,((((25:0.022651,33:0.020270)0.63:0.005197,((28:0.027315,31:0.021099)1:0.005032,(32:0.024857,30:0.013445)1:0.006656)1:0.020308,27:0.022448)0.57:0.006759,(26:0.026909,29:0.022634)1:0.008284)0.95:0.012457,34:0.043875)0.95:0.028682)0.95:0.014824)1:0.133045,((((((14:0.014406,15:0.015010)1:0.005782,17:0.020550,18:0.017599)0.96:0.001746,16:0.016494)1:0.003994,19:0.018978)1:0.017010,24:0.030998)0.8:0.071540,(((12:0.011620,13:0.013629)1:0.028212,(20:0.012528,21:0.011250)1:0.034609)1:0.036137,(22:0.019928,23:0.021940)1:0.064721)1:0.027204)1:0.064662)1;
+END;<br />
+<b>Warning</b>:  session_write_close() expects exactly 0 parameters, 1 given in <b>/var/www/10ktrees.nunn-lab.org/sendTreesToUser.php</b> on line <b>98</b><br />
